@@ -2,6 +2,6 @@ name: microservices
 services:
   app:
     container_name: microservices-app
-    image: otus.ru/products/microservices:0.0.1
+    image: andrewmv12/microservices:0.0.1
     ports:
       - "8000:8000"

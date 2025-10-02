@@ -50,7 +50,7 @@
 				<configuration>
 					<image>
 						<pullPolicy>IF_NOT_PRESENT</pullPolicy>
-						<name>otus.ru/products/microservices:${project.version}</name>
+						<name>andrewmv12/microservices:${project.version}</name>
 						<publish>false</publish>
 						<env>
 							<BPE_DELIM_JAVA_TOOL_OPTIONS xml:space="preserve"> </BPE_DELIM_JAVA_TOOL_OPTIONS>
